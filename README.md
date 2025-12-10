@@ -1,5 +1,10 @@
 👋 Hi, I'm Cory Cusick
 
+## 🏅 Badges  
+![A+](https://img.shields.io/badge/CompTIA-A%2B-red?style=for-the-badge)
+![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
+
+
 Aspiring IT & Cybersecurity Professional | A+ Certified | Networking & Linux Labs | Seeking Help Desk / SysAdmin Roles
 
 I'm finishing my B.S. in Cybersecurity Technology (Dec 2025) and actively building hands-on projects in networking, Linux, Windows administration, and security fundamentals. I’m passionate about troubleshooting, learning by doing, and growing into a long-term IT role.
