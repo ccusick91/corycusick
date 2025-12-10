@@ -2,7 +2,7 @@
 
 🏅
 ![A+](https://img.shields.io/badge/CompTIA-A%2B-red?style=for-the-badge)
-![SIU Salukis](https://img.shields.io/badge/SIU-Salukis-maroon?style=for-the-badge)
+🎓 ![SIU Salukis](https://img.shields.io/badge/SIU-Salukis-maroon?style=for-the-badge)
 
 
 
