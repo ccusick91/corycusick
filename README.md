@@ -1,8 +1,9 @@
 👋 Hi, I'm Cory Cusick
 
-## 🏅 Badges  
+🏅
 ![A+](https://img.shields.io/badge/CompTIA-A%2B-red?style=for-the-badge)
-![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
+![SIU Salukis](https://img.shields.io/badge/SIU-Salukis-maroon?style=for-the-badge)
+
 
 
 Aspiring IT & Cybersecurity Professional | A+ Certified | Networking & Linux Labs | Seeking Help Desk / SysAdmin Roles
